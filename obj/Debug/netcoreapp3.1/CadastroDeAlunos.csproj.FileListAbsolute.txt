@@ -1,0 +1,13 @@
+C:\Users\10\Documents\Curso\BackEnd\CadastroDeAlunos\bin\Debug\netcoreapp3.1\CadastroDeAlunos.exe
+C:\Users\10\Documents\Curso\BackEnd\CadastroDeAlunos\bin\Debug\netcoreapp3.1\CadastroDeAlunos.deps.json
+C:\Users\10\Documents\Curso\BackEnd\CadastroDeAlunos\bin\Debug\netcoreapp3.1\CadastroDeAlunos.runtimeconfig.json
+C:\Users\10\Documents\Curso\BackEnd\CadastroDeAlunos\bin\Debug\netcoreapp3.1\CadastroDeAlunos.runtimeconfig.dev.json
+C:\Users\10\Documents\Curso\BackEnd\CadastroDeAlunos\bin\Debug\netcoreapp3.1\CadastroDeAlunos.dll
+C:\Users\10\Documents\Curso\BackEnd\CadastroDeAlunos\bin\Debug\netcoreapp3.1\CadastroDeAlunos.pdb
+C:\Users\10\Documents\Curso\BackEnd\CadastroDeAlunos\obj\Debug\netcoreapp3.1\CadastroDeAlunos.csprojAssemblyReference.cache
+C:\Users\10\Documents\Curso\BackEnd\CadastroDeAlunos\obj\Debug\netcoreapp3.1\CadastroDeAlunos.AssemblyInfoInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\CadastroDeAlunos\obj\Debug\netcoreapp3.1\CadastroDeAlunos.AssemblyInfo.cs
+C:\Users\10\Documents\Curso\BackEnd\CadastroDeAlunos\obj\Debug\netcoreapp3.1\CadastroDeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\CadastroDeAlunos\obj\Debug\netcoreapp3.1\CadastroDeAlunos.dll
+C:\Users\10\Documents\Curso\BackEnd\CadastroDeAlunos\obj\Debug\netcoreapp3.1\CadastroDeAlunos.pdb
+C:\Users\10\Documents\Curso\BackEnd\CadastroDeAlunos\obj\Debug\netcoreapp3.1\CadastroDeAlunos.genruntimeconfig.cache
